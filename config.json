@@ -7,7 +7,7 @@
       "hl_Lines": "",
       "lineAnchors": "",
       "lineNoStart": 1,
-      "lineNos": true,
+      "lineNos": false,
       "lineNumbersInTable": true,
       "noClasses": false,
       "style": "native",
